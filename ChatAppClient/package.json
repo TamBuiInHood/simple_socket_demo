@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@microsoft/signalr": "^8.0.7",
+    "boo": "^2.0.0",
+    "react-bootstrap": "^2.10.10"
+  }
+}
